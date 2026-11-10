@@ -1,6 +1,6 @@
 **Entrega proyecto final de algoritmos de ordenamiento para Analisis de Algoritmos**
 
-la aplicacion se diseñó bajo el patrón de diseño **Strategy** (un patrón de diseño de comportamiento que  permite definir una familia de algoritmos, poner cada uno en su propia clase y hacer que sus objetos sean intercambiables.) para encapsular cada algoritmo y facilitar la adición de futuros métodos de ordenamiento.
+la aplicacion se diseñó bajo el patrón de diseño **Strategy** (un patrón de diseño que permite definir una familia de algoritmos, poner cada uno en su propia clase y hacer que sus objetos sean intercambiables.) para encapsular cada algoritmo y facilitar la adición de futuros métodos de ordenamiento.
 
 ## Estructura de interfaz: 
 
